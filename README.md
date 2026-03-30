@@ -84,3 +84,8 @@ uv run mcp-baostock-server
 ## 技术交流
 
 - 微信: iamxxn886
+
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/huggingagi-mcp-baostock-server).
+
